@@ -1,5 +1,4 @@
-  
-#include "crypto/hblk_crypto.h"
+#include "hblk_crypto.h"
 
 /**
  * sha256 - compute the hash of a sequence of bytes
